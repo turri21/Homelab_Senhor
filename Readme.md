@@ -2,7 +2,7 @@
 
 Tested: Working Video 720p, 1080p & Sound
 
-Fixed: There was a constant random crackling sound even when the OSD (CORE & GLOBAL) volume was down.
+Fixed: There was a constant random crackling sound even when the OSD (CORE & GLOBAL) volume was turned down.
 
 Fix: Synthesize it with Balanced optimization mode.
 
