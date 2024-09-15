@@ -1,3 +1,10 @@
+=(Interact_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+Fixed: There was a constant random crackling sound even when the OSD (CORE & GLOBAL) volume was down.
+Fix: Synthesize it with Balanced optimization mode.
+
 # [Homelab](https://ajovomultja.hu/homelab-2?language=en) for [MiSTer FPGA](https://mister-devel.github.io/MkDocs_MiSTer/)
 
 ![Hungarian Homelab KIT series computers](homelab.png)
